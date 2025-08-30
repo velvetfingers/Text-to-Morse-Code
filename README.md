@@ -1,0 +1,1 @@
+A simple command-line interface to convert a message into morse code.
